@@ -1,3 +1,3 @@
 {
-	"name": "Dark. Nero Multi Device "
+	"name": "Black. X Multi Device "
 }
